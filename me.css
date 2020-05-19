@@ -427,7 +427,8 @@ body::-webkit-scrollbar-track-piece {
     text-decoration: none; /*why set text-decoration as none?*/
     position: relative;
     top: 10%;
-    left: 80%;
+    margin-left: auto;
+    /*left: 80%;*/
     /*transform: translate(-50%, -50%); !*translate the button self*!*/
     font-size: 13px;
     background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
