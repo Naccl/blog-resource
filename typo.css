@@ -267,7 +267,8 @@
 
 .typo ol, .typo-ol {
   list-style: decimal;
-  margin-left: 1.9em;
+  font-size: 16px;
+  line-height: 1.8;
 }
 
 .typo li ul, .typo li ol, .typo-ul ul, .typo-ul ol, .typo-ol ul, .typo-ol ol {
