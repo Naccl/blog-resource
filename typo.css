@@ -150,8 +150,19 @@
 }
 
 /* 代码片断 */
-.typo pre,.typo  code,.typo  pre tt {
-  font-family: Courier, 'Courier New', monospace;
+/*.typo pre,.typo  code,.typo  pre tt {*/
+/*  font-family: Courier, 'Courier New', monospace;*/
+/*}*/
+
+/* 代码片断 */
+.typo p code {
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid #ddd;
+  background: #f6f6f6;
+  padding: 3px;
+  border-radius: 3px;
+  font-family: Consolas,Monaco,'Andale Mono','Ubuntu Mono',monospace;
 }
 
 .typo pre {
