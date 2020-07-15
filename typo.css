@@ -249,23 +249,23 @@
 }
 
 .typo h1, .typo-h1 {
-  font-size: 2.5em;
-}
-
-.typo h2, .typo-h2 {
   font-size: 2em;
 }
 
-.typo h3, .typo-h3 {
+.typo h2, .typo-h2 {
   font-size: 1.6em;
 }
 
+.typo h3, .typo-h3 {
+  font-size: 1.3em;
+}
+
 .typo h4, .typo-h4 {
-  font-size: 1.4em;
+  font-size: 1em;
 }
 
 .typo h5, .typo h6, .typo-h5, .typo-h6 {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 /* 在文章中，应该还原 ul 和 ol 的样式 */
